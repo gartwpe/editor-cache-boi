@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Cache Boi
+ * Plugin Name: Editor Cache Boi
  * Description: Allow editors to purge WPE cache from the toolbar
  * Plugin URI:
  * Version: 0.1.0
